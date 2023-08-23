@@ -1,4 +1,4 @@
-- name: Investigation of Mysterious Phenomena
+- name: Word Embedding Variability Project 
   description: >
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum luctus arcu,
     ac suscipit sapien viverra vel. Maecenas lorem nisl, viverra in sodales ut, vehicula sit
@@ -9,12 +9,12 @@
     torquent per conubia nostra, per inceptos himenaeos. Ut suscipit odio in justo luctus
     id euismod nisi fermentum. Morbi pulvinar urna et magna pellentesque blandit. Donec
     aliquet dui et metus suscipit eget iaculis libero sagittis.
-  funding: CIHR
-  collaborators:
-  assignees: Sally Smith
-  photo: science.png
+  funding:
+  collaborators:  
+  assignees: Zeyneb Kaya
+  photo: WordEmbeddingVariabilityProject.jpeg
 
-- name: Characterization of Elusive Processes
+- name: HomericProject
   description: >
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum luctus arcu,
     ac suscipit sapien viverra vel. Maecenas lorem nisl, viverra in sodales ut, vehicula sit
@@ -25,7 +25,25 @@
     torquent per conubia nostra, per inceptos himenaeos. Ut suscipit odio in justo luctus
     id euismod nisi fermentum. Morbi pulvinar urna et magna pellentesque blandit. Donec
     aliquet dui et metus suscipit eget iaculis libero sagittis.
-  funding: NSERC
+  funding: 
   collaborators: Dr. Imp Ortant
   assignees: Tim Riddle
-  photo: biology.png
+  photo: HomericProject.jpeg
+
+  - name: Syriac Corpus Project
+  description: >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum luctus arcu,
+    ac suscipit sapien viverra vel. Maecenas lorem nisl, viverra in sodales ut, vehicula sit
+    amet augue. Morbi a turpis ipsum. Fusce ultricies justo non ligula semper quis gravida
+    leo sodales. Aliquam posuere, ipsum at molestie ullamcorper, mi lectus commodo elit, ut
+    tempus diam dolor sed nisi. Mauris vel tortor libero. Aliquam ultrices lacus sit amet
+    felis aliquam eget malesuada erat rhoncus. Class aptent taciti sociosqu ad litora
+    torquent per conubia nostra, per inceptos himenaeos. Ut suscipit odio in justo luctus
+    id euismod nisi fermentum. Morbi pulvinar urna et magna pellentesque blandit. Donec
+    aliquet dui et metus suscipit eget iaculis libero sagittis.
+  funding: 
+  collaborators: Dr. Imp Ortant
+  assignees: Tim Riddle
+  photo: SyriacCorpusProject.jpeg
+
+  

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lab Team
+title: People
 permalink: /team/
 toggle: on
 rank: 2

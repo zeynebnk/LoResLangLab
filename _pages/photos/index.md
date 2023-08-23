@@ -2,6 +2,6 @@
 layout: page
 title: Photos
 permalink: /photos/
-toggle: on
+toggle: off
 rank: 6
 ---

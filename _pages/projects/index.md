@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Current Projects
 permalink: /projects/
 toggle: on
 rank: 1

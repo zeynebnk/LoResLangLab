@@ -1,17 +1,24 @@
 # Site settings
-lab_name: Bruno Grande Lab
-institution: Science University
-email: bgrande@sfu.ca
+title: Low-Resource Languages research in the Low-Resource Languages Lab at ...
+lab_name: Low-Resource Languages Lab
+author: >
+  Annie Lamar, Zeyneb Kaya and the Low-Resource Languages Lab
+institution: ... University
+email: zeynebnkaya@icloud.com
 description: >
-  This research lab specializes in science and makes
-  novel discoveries with translational impact.
-baseurl: "/guild"
-url: "http://bgran.de/guild"
-twitter_username: grandebruno
-github_username:  brunogrande
+  The Low-Resource Languages Lab researches multidisciplinary work with diverse under-resourced languages. 
+baseurl: "/LoResLangLab"
+url: "http://zeynebnk.github.io/LoResLangLab"
+#twitter_username: 
+github_username: zeynebnk
 images_dir: "/images/"
 
 # Build settings
 markdown: kramdown
 include: ["_pages"]
 permalink: /:title/
+
+#plugins for search engine optimization
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
