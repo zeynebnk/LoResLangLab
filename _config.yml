@@ -1,12 +1,12 @@
 # Site settings
-title: Low-Resource Languages research in the Low-Resource Languages Lab at ...
-lab_name: Low-Resource Languages Lab
+title: Low-Resource Languages research in the LoResLang Lab.
+lab_name: LoResLang Lab
 author: >
   Annie Lamar, Zeyneb Kaya and the Low-Resource Languages Lab
-institution: ... Institution
+institution: 
 email: zeynebnkaya@icloud.com
 description: >
-  The Low-Resource Languages Lab researches multidisciplinary work with diverse under-resourced languages. 
+  The LoResLang Lab researches multidisciplinary work with diverse under-resourced languages. 
 baseurl: ""
 url: "http://zeynebnk.github.io/LoResLangLab"
 #twitter_username: 

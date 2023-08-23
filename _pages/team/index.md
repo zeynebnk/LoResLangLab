@@ -26,7 +26,7 @@ rank: 2
     {% endfor %}
     <!-- Non-current (alumni) -->
     {% assign alumni_size = site.data.team | size %}
-    {% if alumni_size > 0 %}
+    {% if alumni_size > 2 %}
         <h1 class="post-title">Alumni</h1>
         {% for member in site.data.team %}
             {% if member.is_current == false %}

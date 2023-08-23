@@ -4,7 +4,7 @@
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
+    min-height: 70px;
     padding-top: 5px;
 
     // Positioning context for the mobile navigation icon
@@ -31,9 +31,10 @@
 }
 
 .site-nav {
-    float: left;
+    float: right;
     line-height: 56px;
-    width: 100%;
+    width: 70%;
+    padding-top: 15px;
 
     .menu-icon {
         display: none;
@@ -45,7 +46,7 @@
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
-            margin-right: 20px;
+            margin-right: 10px;
         }
     }
 
@@ -107,7 +108,7 @@
 .trigger { 
     float: left;
     width: 100%;
-    overflow: hidden;
+    overflow: none;
     position:relative;
     height: 39px; 
 }
@@ -115,7 +116,7 @@
 .trigger ul { 
     clear: left;
     height: 39px;
-    float: left;
+    float: right;
     left: 50%;
     margin: 0;
     padding: 0;
@@ -131,7 +132,7 @@
     margin: 0;
     height: 39px;
     position: relative;
-    right: 50%; 
+    right: 42%; 
 }
 
 .trigger ul li a {

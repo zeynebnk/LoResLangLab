@@ -7,7 +7,7 @@
     ac suscipit sapien viverra vel. Maecenas lorem nisl, viverra in sodales ut, vehicula sit
     amet augue. Morbi a turpis ipsum. Fusce ultricies justo non ligula semper quis gravida
     leo sodales. Mauris vel tortor libero.
-  photo: person1.jpeg
+  photo: person1.jpg
 
 - name: Zeyneb Kaya
   is_pi: False
@@ -18,5 +18,5 @@
     ac suscipit sapien viverra vel. Maecenas lorem nisl, viverra in sodales ut, vehicula sit
     amet augue. Morbi a turpis ipsum. Fusce ultricies justo non ligula semper quis gravida
     leo sodales.
-  photo: person2.jpeg
+  photo: person2.jpg
 
