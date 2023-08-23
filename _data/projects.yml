@@ -9,12 +9,12 @@
     torquent per conubia nostra, per inceptos himenaeos. Ut suscipit odio in justo luctus
     id euismod nisi fermentum. Morbi pulvinar urna et magna pellentesque blandit. Donec
     aliquet dui et metus suscipit eget iaculis libero sagittis.
-  funding:
+  funding: TBD
   collaborators:  
   assignees: Zeyneb Kaya
   photo: WordEmbeddingVariabilityProject.jpeg
 
-- name: HomericProject
+- name: Homeric Project
   description: >
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum luctus arcu,
     ac suscipit sapien viverra vel. Maecenas lorem nisl, viverra in sodales ut, vehicula sit
@@ -25,12 +25,12 @@
     torquent per conubia nostra, per inceptos himenaeos. Ut suscipit odio in justo luctus
     id euismod nisi fermentum. Morbi pulvinar urna et magna pellentesque blandit. Donec
     aliquet dui et metus suscipit eget iaculis libero sagittis.
-  funding: 
+  funding: TBD
   collaborators: Dr. Imp Ortant
   assignees: Tim Riddle
   photo: HomericProject.jpeg
 
-  - name: Syriac Corpus Project
+- name: Syriac Corpus Project
   description: >
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum luctus arcu,
     ac suscipit sapien viverra vel. Maecenas lorem nisl, viverra in sodales ut, vehicula sit
@@ -41,7 +41,7 @@
     torquent per conubia nostra, per inceptos himenaeos. Ut suscipit odio in justo luctus
     id euismod nisi fermentum. Morbi pulvinar urna et magna pellentesque blandit. Donec
     aliquet dui et metus suscipit eget iaculis libero sagittis.
-  funding: 
+  funding: TBD
   collaborators: Dr. Imp Ortant
   assignees: Tim Riddle
   photo: SyriacCorpusProject.jpeg
