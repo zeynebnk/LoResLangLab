@@ -7,8 +7,8 @@ institution:
 email: zeynebnkaya@icloud.com
 description: >
   The lorel lab researches multidisciplinary work with diverse under-resourced languages. 
-baseurl: ""
-url: "https://zeynebnk.github.io/LoResLangLab/"
+baseurl: "/LoReLab/"
+url: "https://zeynebnk.github.io"
 #twitter_username: 
 github_username: zeynebnk
 images_dir: "/images/"
